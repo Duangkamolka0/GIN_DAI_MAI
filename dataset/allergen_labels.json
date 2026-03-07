@@ -1,0 +1,11 @@
+{
+  "milk":      { "severity": "medium", "score": 2 },
+  "egg":       { "severity": "medium", "score": 2 },
+  "fish":      { "severity": "high",   "score": 3 },
+  "shellfish": { "severity": "high",   "score": 3 },
+  "tree_nut":  { "severity": "high",   "score": 3 },
+  "peanut":    { "severity": "high",   "score": 3 },
+  "wheat":     { "severity": "medium", "score": 2 },
+  "soy":       { "severity": "low",    "score": 1 },
+  "sesame":    { "severity": "medium", "score": 2 }
+}

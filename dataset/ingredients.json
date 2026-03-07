@@ -1,0 +1,478 @@
+{
+  "somtam": {
+    "somtam_thai": [
+      "papaya",
+      "chili",
+      "garlic",
+      "lime",
+      "fish_sauce",
+      "palm_sugar",
+      "dried_shrimp",
+      "peanut",
+      "tomato"
+    ],
+    "somtam_poo": [
+      "papaya",
+      "chili",
+      "garlic",
+      "lime",
+      "fish_sauce",
+      "salted_crab",
+      "tomato"
+    ],
+    "somtam_plara": [
+      "papaya",
+      "chili",
+      "garlic",
+      "fermented_fish_sauce",
+      "lime",
+      "tomato",
+      "yardlong_bean"
+    ],
+    "somtam_thai_salted_egg": [
+      "papaya",
+      "chili",
+      "garlic",
+      "lime",
+      "fish_sauce",
+      "palm_sugar",
+      "peanut",
+      "salted_egg",
+      "tomato"
+    ],
+    "somtam_poo_plara": [
+      "papaya",
+      "chili",
+      "garlic",
+      "fermented_fish_sauce",
+      "salted_crab",
+      "lime",
+      "tomato",
+      "yardlong_bean"
+    ]
+  },
+
+  "padthai": {
+    "padthai_shrimp": [
+      "rice_noodle",
+      "shrimp",
+      "egg",
+      "tofu",
+      "bean_sprout",
+      "garlic",
+      "fish_sauce",
+      "tamarind_paste",
+      "palm_sugar",
+      "peanut",
+      "chive"
+    ],
+    "padthai_chicken": [
+      "rice_noodle",
+      "chicken",
+      "egg",
+      "tofu",
+      "bean_sprout",
+      "garlic",
+      "fish_sauce",
+      "tamarind_paste",
+      "palm_sugar",
+      "chive"
+    ],
+    "padthai_pork": [
+      "rice_noodle",
+      "pork",
+      "egg",
+      "tofu",
+      "bean_sprout",
+      "garlic",
+      "fish_sauce",
+      "tamarind_paste",
+      "palm_sugar",
+      "peanut"
+    ],
+    "padthai_seafood": [
+      "rice_noodle",
+      "shrimp",
+      "squid",
+      "egg",
+      "tofu",
+      "bean_sprout",
+      "garlic",
+      "fish_sauce",
+      "tamarind_paste",
+      "palm_sugar"
+    ],
+    "padthai_vegetarian": [
+      "rice_noodle",
+      "tofu",
+      "bean_sprout",
+      "carrot",
+      "garlic",
+      "soy_sauce",
+      "tamarind_paste",
+      "palm_sugar",
+      "chive"
+    ]
+  },
+
+  "tomyum": {
+    "tomyum_goong_creamy": [
+      "shrimp",
+      "straw_mushroom",
+      "lemongrass",
+      "galangal",
+      "kaffir_lime_leaf",
+      "bird_eye_chili",
+      "evaporated_milk",
+      "thai_chili_paste",
+      "fish_sauce",
+      "lime_juice"
+    ],
+    "tomyum_gai_clear": [
+      "chicken",
+      "oyster_mushroom",
+      "lemongrass",
+      "galangal",
+      "kaffir_lime_leaf",
+      "shallot",
+      "bird_eye_chili",
+      "culantro",
+      "tamarind_paste",
+      "fish_sauce"
+    ],
+    "tomyum_seafood": [
+      "shrimp",
+      "straw_mushroom",
+      "lemongrass",
+      "squid",
+      "mussel",
+      "chili",
+      "fish_sauce",
+      "lime_juice"
+    ],
+    "tomyum_fish_clear": [
+      "fish",
+      "straw_mushroom",
+      "lemongrass",
+      "galangal",
+      "kaffir_lime_leaf",
+      "shallot",
+      "bird_eye_chili",
+      "fish_sauce",
+      "lime_juice"
+    ],
+    "tomyum_goong": [
+      "shrimp",
+      "lemongrass",
+      "galangal",
+      "chili",
+      "mushroom",
+      "fish_sauce",
+      "lime_juice"
+    ]
+  },
+
+  "green_curry": {
+    "green_curry_chicken_classic": [
+      "chicken",
+      "green_curry_paste",
+      "coconut_milk",
+      "thai_eggplant",
+      "pea_eggplant",
+      "red_chili",
+      "basil",
+      "fish_sauce",
+      "palm_sugar"
+    ],
+    "green_curry_beef_rich": [
+      "beef",
+      "green_curry_paste",
+      "coconut_milk",
+      "kaffir_lime_leaf",
+      "red_chili",
+      "thai_eggplant",
+      "palm_sugar",
+      "fish_sauce"
+    ],
+    "green_curry_fishball": [
+      "fish_ball",
+      "young_coconut_shoot",
+      "fingerroot",
+      "green_curry_paste",
+      "coconut_milk",
+      "palm_sugar",
+      "fish_sauce"
+    ],
+    "green_curry_seafood": [
+      "shrimp",
+      "squid",
+      "coconut_milk",
+      "green_curry_paste",
+      "basil",
+      "red_chili"
+    ],
+    "green_curry_vegan": [
+      "tofu",
+      "textured_vegetable_protein",
+      "thai_eggplant",
+      "pea_eggplant",
+      "mushroom",
+      "coconut_milk",
+      "vegan_green_curry_paste",
+      "soy_sauce",
+      "coconut_sugar",
+      "basil",
+      "red_chili",
+      "kaffir_lime_leaf"
+    ]
+  },
+
+  "pad_krapao": {
+    "beef_basil": [
+      "beef",
+      "dried_chili",
+      "garlic",
+      "holy_basil",
+      "coriander_seed",
+      "cumin",
+      "soy_sauce",
+      "sugar"
+    ],
+    "pork_basil_traditional": [
+      "pork",
+      "bird_eye_chili",
+      "dried_ginger",
+      "green_peppercorn",
+      "fish_sauce",
+      "palm_sugar",
+      "holy_basil"
+    ],
+    "seafood": [
+      "shrimp",
+      "squid",
+      "basil",
+      "chili",
+      "garlic",
+      "soy_sauce"
+    ],
+    "braised_chicken": [
+      "chicken",
+      "basil",
+      "chili",
+      "garlic",
+      "soy_sauce"
+    ],
+    "shrimp_basil": [
+      "shrimp",
+      "bird_eye_chili",
+      "garlic",
+      "oyster_sauce",
+      "fish_sauce",
+      "holy_basil"
+    ]
+  },
+
+  "tom_kha_gai": {
+    "classic": [
+      "chicken",
+      "galangal",
+      "lemongrass",
+      "kaffir_lime_leaf",
+      "coconut_milk",
+      "fish_sauce",
+      "palm_sugar",
+      "lime"
+    ],
+    "chicken_blood": [
+      "chicken",
+      "chicken_blood",
+      "galangal",
+      "lemongrass",
+      "coconut_milk",
+      "tomato",
+      "lime",
+      "bird_eye_chili"
+    ],
+    "chicken_mushroom": [
+      "chicken_thigh",
+      "straw_mushroom",
+      "kaffir_lime_leaf",
+      "coconut_milk",
+      "fish_sauce",
+      "lime"
+    ],
+    "seafood": [
+      "shrimp",
+      "squid",
+      "galangal",
+      "lemongrass",
+      "coconut_milk",
+      "fish_sauce",
+      "mushroom"
+    ]
+  },
+
+  "larb": {
+    "classic_pork": [
+      "pork",
+      "roasted_rice_powder",
+      "chili_flakes",
+      "lime_juice",
+      "fish_sauce",
+      "shallot",
+      "culantro"
+    ],
+    "northern_larb_pork": [
+      "pork",
+      "northern_larb_spice",
+      "pork_liver",
+      "pork_skin",
+      "phak_phai",
+      "green_onion"
+    ],
+    "pork_larb_offal": [
+      "pork",
+      "pork_liver",
+      "pork_intestine",
+      "pork_skin",
+      "roasted_chili",
+      "roasted_rice_powder",
+      "lime_juice"
+    ],
+    "pork_larb_seasoning_sauce": [
+      "pork",
+      "seasoning_sauce",
+      "roasted_rice_powder",
+      "chili_flakes",
+      "green_onion",
+      "mint"
+    ],
+    "chicken_larb": [
+      "chicken",
+      "roasted_rice_powder",
+      "chili_flakes",
+      "culantro",
+      "shallot",
+      "mint"
+    ]
+  },
+
+  "sukiyaki": {
+    "seafood_dry": [
+      "shrimp",
+      "squid",
+      "glass_noodle",
+      "egg",
+      "napa_cabbage",
+      "morning_glory",
+      "sukiyaki_sauce"
+    ],
+    "pork_soup": [
+      "pork",
+      "egg",
+      "morning_glory",
+      "celery",
+      "chicken_broth",
+      "sukiyaki_sauce"
+    ],
+    "mixed_soup": [
+      "pork",
+      "shrimp",
+      "fish_ball",
+      "glass_noodle",
+      "mixed_vegetable",
+      "broth",
+      "sukiyaki_sauce"
+    ],
+    "chicken_dry": [
+      "chicken",
+      "glass_noodle",
+      "cabbage",
+      "egg",
+      "sukiyaki_sauce"
+    ]
+  },
+  
+  "sour_curry": {
+    "mixed_vegetable_shrimp": [
+      "napa_cabbage",
+      "long_bean",
+      "carrot",
+      "shrimp",
+      "sour_curry_paste",
+      "tamarind_paste"
+    ],
+    "southern_fish": [
+      "sea_bass",
+      "young_coconut_shoot",
+      "southern_sour_curry_paste",
+      "shrimp_paste",
+      "lime"
+    ],
+    "papaya_shrimp": [
+      "green_papaya",
+      "shrimp",
+      "ground_fish",
+      "sour_curry_paste",
+      "tamarind_paste"
+    ],
+    "drumstick_fish": [
+      "drumstick_pod",
+      "snakehead_fish",
+      "fingerroot",
+      "sour_curry_paste",
+      "fish_sauce",
+      "palm_sugar"
+    ],
+    "vegetarian": [
+      "oyster_mushroom",
+      "firm_tofu",
+      "vegetarian_sour_curry_paste",
+      "mixed_vegetable",
+      "salt",
+      "tamarind_paste"
+    ]
+  },
+
+  "massaman_curry": {
+    "beef_shank": [
+      "beef_shank",
+      "massaman_curry_paste",
+      "coconut_milk",
+      "potato",
+      "cinnamon",
+      "cardamom",
+      "peanut"
+    ],
+    "chicken_classic": [
+      "chicken_thigh",
+      "potato",
+      "onion",
+      "coconut_milk",
+      "roasted_peanut",
+      "massaman_curry_paste"
+    ],
+    "premium_chicken": [
+      "chicken",
+      "massaman_curry_paste",
+      "coconut_milk",
+      "spice_mix"
+    ],
+    "pork_belly": [
+      "pork_belly",
+      "potato",
+      "onion",
+      "massaman_curry_paste",
+      "coconut_milk"
+    ],
+    "quick_chicken": [
+      "chicken_drumette",
+      "potato",
+      "massaman_curry_paste",
+      "coconut_milk"
+    ]
+  }
+
+}
+
+
