@@ -1,11 +1,56 @@
 {
-  "milk":      { "severity": "medium", "score": 2 },
-  "egg":       { "severity": "medium", "score": 2 },
-  "fish":      { "severity": "high",   "score": 3 },
-  "shellfish": { "severity": "high",   "score": 3 },
-  "tree_nut":  { "severity": "high",   "score": 3 },
-  "peanut":    { "severity": "high",   "score": 3 },
-  "wheat":     { "severity": "medium", "score": 2 },
-  "soy":       { "severity": "low",    "score": 1 },
-  "sesame":    { "severity": "medium", "score": 2 }
+  "peanut": {
+    "severity_score": 5,
+    "prevalence": 4,
+    "level": "high",
+    "display_score": 3
+  },
+  "tree_nut": {
+    "severity_score": 5,
+    "prevalence": 4,
+    "level": "high",
+    "display_score": 3
+  },
+  "shellfish": {
+    "severity_score": 5,
+    "prevalence": 4,
+    "level": "high",
+    "display_score": 3
+  },
+  "fish": {
+    "severity_score": 4,
+    "prevalence": 3,
+    "level": "high",
+    "display_score": 3
+  },
+  "milk": {
+    "severity_score": 3,
+    "prevalence": 5,
+    "level": "medium",
+    "display_score": 2
+  },
+  "egg": {
+    "severity_score": 3,
+    "prevalence": 4,
+    "level": "medium",
+    "display_score": 2
+  },
+  "wheat": {
+    "severity_score": 2,
+    "prevalence": 5,
+    "level": "medium",
+    "display_score": 2
+  },
+  "soy": {
+    "severity_score": 2,
+    "prevalence": 4,
+    "level": "low",
+    "display_score": 1
+  },
+  "sesame": {
+    "severity_score": 3,
+    "prevalence": 3,
+    "level": "medium",
+    "display_score": 2
+  }
 }
