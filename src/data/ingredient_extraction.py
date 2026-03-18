@@ -1,6 +1,10 @@
 import json
-# downlode dataset
-with open('dataset/ingredients.json', 'r') as f:
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+file_path = os.path.join(BASE_DIR, 'dataset/raw/ingredients.json')
+
+with open(file_path, 'r') as f:
     data = json.load(f)
 
 def get_ingredients(menu_name) :
