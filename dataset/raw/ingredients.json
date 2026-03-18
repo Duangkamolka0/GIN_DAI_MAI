@@ -211,7 +211,7 @@
 
 
   "pad_krapao": {
-    "beef_basil": [
+    "pad_krapao_beef_basil": [
       "beef",
       "dried_chili",
       "garlic",
@@ -221,7 +221,7 @@
       "soy_sauce",
       "sugar"
     ],
-    "pork_basil_traditional": [
+    "pad_krapao_pork_basil_traditional": [
       "pork",
       "bird_eye_chili",
       "dried_ginger",
@@ -230,7 +230,7 @@
       "palm_sugar",
       "holy_basil"
     ],
-    "seafood_basil": [
+    "pad_krapao_seafood_basil": [
       "shrimp",
       "squid",
       "basil",
@@ -238,14 +238,14 @@
       "garlic",
       "soy_sauce"
     ],
-    "braised_chicken_basil": [
+    "pad_krapao_braised_chicken_basil": [
       "chicken",
       "basil",
       "chili",
       "garlic",
       "soy_sauce"
     ],
-    "shrimp_basil": [
+    "pad_krapao_shrimp_basil": [
       "shrimp",
       "bird_eye_chili",
       "garlic",
@@ -261,15 +261,8 @@
       "soy_sauce",
       "sugar"
     ],
-    "crispy_pork_basil": [
-      "crispy_pork",
-      "bird_eye_chili",
-      "garlic",
-      "holy_basil",
-      "soy_sauce",
-      "sugar"
-    ],
-    "chicken_basil_egg": [
+
+    "pad_krapao_chicken_basil_egg": [
       "chicken",
       "egg",
       "bird_eye_chili",
@@ -277,7 +270,7 @@
       "holy_basil",
       "soy_sauce"
     ],
-    "mixed_seafood_basil": [
+    "pad_krapao_mixed_seafood_basil": [
       "shrimp",
       "squid",
       "mussel",
@@ -286,7 +279,7 @@
       "basil",
       "soy_sauce"
     ],
-    "spicy_beef_basil": [
+    "pad_krapao_spicy_beef_basil": [
       "beef",
       "bird_eye_chili",
       "garlic",

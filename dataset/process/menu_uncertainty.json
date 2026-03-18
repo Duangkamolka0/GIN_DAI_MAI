@@ -1,0 +1,29 @@
+{
+  "somtam": {
+    "shellfish": 0.89,
+    "fish": 1.0,
+    "peanut": 0.22,
+    "egg": 0.11
+  },
+  "padthai": {
+    "fish": 0.73,
+    "peanut": 0.27,
+    "shellfish": 0.73,
+    "egg": 0.91,
+    "soy": 0.73,
+    "wheat": 0.27
+  },
+  "pad_krapao": {
+    "soy": 0.9,
+    "wheat": 0.9,
+    "shellfish": 0.5,
+    "fish": 0.2,
+    "egg": 0.1
+  },
+  "tomyum": {
+    "shellfish": 1.0,
+    "milk": 0.22,
+    "fish": 1.0,
+    "soy": 0.11
+  }
+}

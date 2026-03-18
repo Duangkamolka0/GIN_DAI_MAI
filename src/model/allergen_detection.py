@@ -2,7 +2,7 @@ import json
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-file_path = os.path.join(BASE_DIR, 'dataset/processed/ingredients_allergen_mapping.json')
+file_path = os.path.join(BASE_DIR, 'dataset/process/ingredients_allergen_mapping.json')
 
 with open(file_path, 'r') as f:
     data = json.load(f)
